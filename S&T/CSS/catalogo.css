@@ -1,0 +1,1145 @@
+#boton1{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton1{
+         transform-style: preserve-3d;
+     }
+     
+     #boton1:after {
+       
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$60.00 '          ;
+   
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton1:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+     
+ /*  2    */
+ #boton2{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton2{
+         transform-style: preserve-3d;
+     }
+     
+     #boton2:after {
+      
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: ' $9.99 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton2:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+      
+ 
+ /*  3    */
+ #boton3{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton3{
+         transform-style: preserve-3d;
+     }
+     
+     #boton3:after {
+       
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: ' $19.99 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton3:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+ 
+      /*  4    */
+      #boton4{
+        margin:30px;
+             border: none;
+             
+             padding: 10px;
+             font-size: 18px;
+             border-radius: 10px;
+             position: relative;
+             box-sizing: border-box;
+             transition: all 500ms ease;
+         font-size: 18px;
+       font-family: 'Glegoo', serif;
+        transition:all 1.25s;
+         -webkit-transition:all 1.25s;
+         -moz-transition:all 1.25s;
+         -o-transition:all 1.25s;
+         -ms-transition:all 1.25s;
+         }
+         
+         #boton4{
+             transform-style: preserve-3d;
+         }
+         
+         #boton4:after {
+         
+             left: 0px;
+             width: 100%;
+             padding: 10px 0;
+             position: absolute;
+             background: #3a9999;
+             border-radius: 10px;
+             content: '$23.90 ';
+           
+             
+             transform-origin: center top;
+             transform: rotateX(90deg);
+         }
+         
+         #boton4:hover {
+             transform-origin: center top;
+             transform: rotateX(-90deg) translateY(-100%);
+         cursor:pointer;
+         }
+
+/*  5   */
+#boton5{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton5{
+         transform-style: preserve-3d;
+     }
+     
+     #boton5:after {
+        
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$3.90 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton5:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+/*  6   */
+#boton6{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton6{
+         transform-style: preserve-3d;
+     }
+     
+     #boton6:after {
+       
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$250.30 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton6:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+     /*  7  */
+#boton7{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton7{
+         transform-style: preserve-3d;
+     }
+     
+     #boton7:after {
+
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$59.00 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton7:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+/*  8   */
+#boton8{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton8{
+         transform-style: preserve-3d;
+     }
+     
+     #boton8:after {
+      
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: ' $17.90 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton8:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+/*  9   */
+#boton9{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton9{
+         transform-style: preserve-3d;
+     }
+     
+     #boton9:after {
+        
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$89.90 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton9:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+     /*  10  */
+#boton10{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton10{
+         transform-style: preserve-3d;
+     }
+     
+     #boton10:after {
+     
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$20.90 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton10:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+/*  11   */
+#boton11{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton11{
+         transform-style: preserve-3d;
+     }
+     
+     #boton11:after {
+    
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: 'Pantalla ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton11:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+     /*  12   */
+#boton12{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton12{
+         transform-style: preserve-3d;
+     }
+     
+     #boton12:after {
+   
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$24.36    ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton12:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+ /*  13   */
+ #boton13{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton13{
+         transform-style: preserve-3d;
+     }
+     
+     #boton13:after {
+       
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: ' $8.50 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton13:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+ /*  14   */
+ #boton14{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton14{
+         transform-style: preserve-3d;
+     }
+     
+     #boton14:after {
+       
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: ' $20.30 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton14:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+ /*  15   */
+ #boton15{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton15{
+         transform-style: preserve-3d;
+     }
+     
+     #boton15:after {
+      
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$25.00 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton15:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+ /*  16   */
+ #boton16{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton16{
+         transform-style: preserve-3d;
+     }
+     
+     #boton16:after {
+       
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: ' $30.00 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton16:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+ /*  17  */
+ #boton17{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton17{
+         transform-style: preserve-3d;
+     }
+     
+     #boton17:after {
+       
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$15.00 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton17:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+ /*  18   */
+ #boton18{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton18{
+         transform-style: preserve-3d;
+     }
+     
+     #boton18:after {
+        
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$65.50 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton18:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+ /*  19  */
+ #boton19{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton19{
+         transform-style: preserve-3d;
+     }
+     
+     #boton19:after {
+      
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$99.99 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton19:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+ /*  20   */
+ #boton20{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton20{
+         transform-style: preserve-3d;
+     }
+     
+     #boton20:after {
+        
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$ 5.99 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton20:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+      /*  21   */
+#boton21{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton21{
+         transform-style: preserve-3d;
+     }
+     
+     #boton21:after {
+       
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$45.99 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton21:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+      /*  22   */
+#boton22{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton22{
+         transform-style: preserve-3d;
+     }
+     
+     #boton22:after {
+      
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$ 39.49 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton22:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+ /*  23   */
+ #boton23{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton23{
+         transform-style: preserve-3d;
+     }
+     
+     #boton23:after {
+        
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$177.99';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton23:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+ /*  24   */
+ #boton24{
+    margin:30px;
+         border: none;
+         
+         padding: 10px;
+         font-size: 18px;
+         border-radius: 10px;
+         position: relative;
+         box-sizing: border-box;
+         transition: all 500ms ease;
+     font-size: 18px;
+   font-family: 'Glegoo', serif;
+    transition:all 1.25s;
+     -webkit-transition:all 1.25s;
+     -moz-transition:all 1.25s;
+     -o-transition:all 1.25s;
+     -ms-transition:all 1.25s;
+     }
+     
+     #boton24{
+         transform-style: preserve-3d;
+     }
+     
+     #boton24:after {
+            
+         left: 0px;
+         width: 100%;
+         padding: 10px 0;
+         position: absolute;
+         background: #3a9999;
+         border-radius: 10px;
+         content: '$59.99 ';
+       
+         
+         transform-origin: center top;
+         transform: rotateX(90deg);
+     }
+     
+     #boton24:hover {
+         transform-origin: center top;
+         transform: rotateX(-90deg) translateY(-100%);
+     cursor:pointer;
+     }
+
+
+
+         /*imagen*/
+      .compu{
+        width: 200px;
+        height: 200px;
+          }
+
+/* titulos */
+
+.xd1  {
+    font-family: 'Segoe UI';
+    font-size: 155px;
+    margin-top: 4%;
+    text-align: center;
+    color: white;
+
+}
+
+.xd{
+
+    margin-left: 18em;
+    font-size: 40px;
+    color: white;
+    
+}
+
+
+.tipo{
+
+    margin-left: 23em;
+    font-size: 35px;
+    color: #bfbfbf;
+    
+}
+
+
+.eras{
+
+    margin-left: 23em;
+    font-size: 30px;
+    color: white;
+    
+}
+
+.linea {
+    background-color:#73bfbf;
+
+    width: 100%;
+    height: 50px;
+    margin-top: 1%;
+}
+
+

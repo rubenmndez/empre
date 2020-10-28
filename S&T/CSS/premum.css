@@ -1,0 +1,148 @@
+.hero{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+.form-box{
+    width: 400px;
+    height: 800px;
+    position: relative;
+    margin: auto;
+    background-color: #fff;
+    padding: 2px;
+    overflow: hidden;
+}
+.button-box{
+    width: 220px;
+    margin-top: 20%;
+    margin-left: 22%;
+    position: relative;
+    box-shadow: 0 0 20px 9px #ff61241f;
+    border-radius: 30px;
+}
+.input-group{
+    top: 260px;
+    position: absolute;
+    width: 280px;
+    transition: 0.5s;
+}
+#input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin: 10px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+}
+#submit-btn{
+    width: 51%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    top: 20px;
+    margin-top: 6%;
+    margin-left: 24%;
+    background: #D1930E;
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    margin-left: 23%;
+    margin-right: 24%;
+    font-size: 14px;
+}
+#login{
+    left: 50px;
+}
+#register{
+    left: 450px;
+}
+#logo{
+    max-width: 400px;
+    max-height: 200px;
+    position: absolute;
+}
+h1{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+
+    margin-left: 25%;
+    position: absolute;
+}
+#ingreso{
+    margin-top: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#regresar a{
+    position: absolute;
+    background: none;
+}
+#regresar{
+    margin-left: 10%;
+}
+.xd1{
+    margin-top: -20px;
+    margin-left: 16em;
+    font-size: 40px;
+    color: white;
+    
+}
+
+.subn{
+    margin-top: -20px;
+    margin-left: 6em;
+    font-size: 35px;
+    color: black;
+    
+}
+
+.linea {
+    background-color:#73bfbf;
+
+    width: 100%;
+    height: 50px;
+    margin-top: 1%;
+}
+
+.deco{
+    background-color:black;
+    color: white;
+    font-size: 25px;
+    width: 100%;
+    height: 50px;
+    margin-top: 1%;
+}
+.deco:hover{
+	background-color: #73bfbf;
+	color: black;
+}
+.campos{
+    color: black;
+    font-size: 20px;
+}
+
+.camposR{
+    color: black;
+    font-size: 20px;
+}
+
+.ml{
+    margin-top: 1em;
+    margin-left: 145px;
+    width: 100px;
+    height: 100px;
+}
+
+.enca{
+    font-family: 'Segoe UI';
+  font-size: 90px;
+  margin-top: 4%;
+  text-align: center;
+  color: white;
+  margin-top: -2px;
+ }
